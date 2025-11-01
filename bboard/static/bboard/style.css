@@ -1,0 +1,21 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+header h1 {
+font-size: 40pt;
+text-transform: uppercase;
+text-align: center;
+background: url("bg.jpg") left / auto 150% no-repeat;
+}
+nav {
+font-size: 14pt;
+width: 200px;
+float: left;
+}
+nav a {
+display: block;
+margin: 10px 0px;
+}
+main {
+margin-left: 210px;
+}
